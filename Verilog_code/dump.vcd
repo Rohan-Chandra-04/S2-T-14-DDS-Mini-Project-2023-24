@@ -1,0 +1,244 @@
+$date
+	Thu Oct 19 11:26:52 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module code_tb $end
+$var wire 1 ! med_3 $end
+$var wire 1 " med_2 $end
+$var wire 1 # med_1 $end
+$var wire 1 $ med_0 $end
+$var reg 1 % clk $end
+$var reg 7 & data_in_mid [6:0] $end
+$var reg 7 ' data_in_morn [6:0] $end
+$var reg 7 ( data_in_night [6:0] $end
+$var reg 1 ) ld_mid $end
+$var reg 1 * ld_morn $end
+$var reg 1 + ld_night $end
+$var reg 1 , reset $end
+$scope module uut $end
+$var wire 1 % clk $end
+$var wire 1 - d03 $end
+$var wire 1 . d031 $end
+$var wire 1 / d13 $end
+$var wire 1 0 d132 $end
+$var wire 1 1 d23 $end
+$var wire 1 2 d233 $end
+$var wire 7 3 data_in_mid [6:0] $end
+$var wire 7 4 data_in_morn [6:0] $end
+$var wire 7 5 data_in_night [6:0] $end
+$var wire 1 ) ld_mid $end
+$var wire 1 * ld_morn $end
+$var wire 1 + ld_night $end
+$var wire 1 , reset $end
+$var wire 1 ! med_3 $end
+$var wire 1 " med_2 $end
+$var wire 1 # med_1 $end
+$var wire 1 $ med_0 $end
+$var wire 1 6 en_night $end
+$var wire 1 7 en_morn $end
+$var wire 1 8 en_mid $end
+$var wire 1 9 d223 $end
+$var wire 1 : d22 $end
+$var wire 1 ; d213 $end
+$var wire 1 < d21 $end
+$var wire 1 = d203 $end
+$var wire 1 > d20 $end
+$var wire 1 ? d122 $end
+$var wire 1 @ d12 $end
+$var wire 1 A d112 $end
+$var wire 1 B d11 $end
+$var wire 1 C d102 $end
+$var wire 1 D d10 $end
+$var wire 1 E d021 $end
+$var wire 1 F d02 $end
+$var wire 1 G d011 $end
+$var wire 1 H d01 $end
+$var wire 1 I d001 $end
+$var wire 1 J d00 $end
+$var wire 3 K count [2:0] $end
+$scope module c1 $end
+$var wire 1 % clk $end
+$var wire 1 , rst $end
+$var wire 3 L next_cnt [2:0] $end
+$var reg 3 M cnt [2:0] $end
+$upscope $end
+$scope module d_mid1 $end
+$var wire 1 / d0 $end
+$var wire 1 @ d1 $end
+$var wire 1 B d2 $end
+$var wire 1 D d3 $end
+$var wire 1 N d4 $end
+$var wire 1 O x $end
+$var wire 1 P y $end
+$var wire 1 8 en $end
+$upscope $end
+$scope module d_mid2 $end
+$var wire 1 0 d0 $end
+$var wire 1 ? d1 $end
+$var wire 1 A d2 $end
+$var wire 1 C d3 $end
+$var wire 1 Q d4 $end
+$var wire 1 R x $end
+$var wire 1 S y $end
+$var wire 1 8 en $end
+$upscope $end
+$scope module d_morn1 $end
+$var wire 1 - d0 $end
+$var wire 1 F d1 $end
+$var wire 1 H d2 $end
+$var wire 1 J d3 $end
+$var wire 1 T d4 $end
+$var wire 1 U x $end
+$var wire 1 V y $end
+$var wire 1 7 en $end
+$upscope $end
+$scope module d_morn2 $end
+$var wire 1 . d0 $end
+$var wire 1 E d1 $end
+$var wire 1 G d2 $end
+$var wire 1 I d3 $end
+$var wire 1 W d4 $end
+$var wire 1 X x $end
+$var wire 1 Y y $end
+$var wire 1 7 en $end
+$upscope $end
+$scope module d_night1 $end
+$var wire 1 1 d0 $end
+$var wire 1 : d1 $end
+$var wire 1 < d2 $end
+$var wire 1 > d3 $end
+$var wire 1 Z d4 $end
+$var wire 1 [ x $end
+$var wire 1 \ y $end
+$var wire 1 6 en $end
+$upscope $end
+$scope module d_night2 $end
+$var wire 1 2 d0 $end
+$var wire 1 9 d1 $end
+$var wire 1 ; d2 $end
+$var wire 1 = d3 $end
+$var wire 1 ] d4 $end
+$var wire 1 ^ x $end
+$var wire 1 _ y $end
+$var wire 1 6 en $end
+$upscope $end
+$scope module mid_comp $end
+$var wire 1 ` s1 $end
+$var wire 1 a s2 $end
+$var wire 1 b s3 $end
+$var wire 1 c t1 $end
+$var wire 1 d t2 $end
+$var wire 1 e t3 $end
+$var wire 1 8 y $end
+$upscope $end
+$scope module morn_comp $end
+$var wire 1 f s1 $end
+$var wire 1 g s2 $end
+$var wire 1 h s3 $end
+$var wire 1 i t1 $end
+$var wire 1 j t2 $end
+$var wire 1 k t3 $end
+$var wire 1 7 y $end
+$upscope $end
+$scope module night_comp $end
+$var wire 1 l s1 $end
+$var wire 1 m s2 $end
+$var wire 1 n s3 $end
+$var wire 1 o t1 $end
+$var wire 1 p t2 $end
+$var wire 1 q t3 $end
+$var wire 1 6 y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+xq
+xp
+xo
+0n
+0m
+0l
+xk
+xj
+xi
+0h
+0g
+0f
+xe
+xd
+xc
+0b
+0a
+0`
+0_
+0^
+0]
+0\
+0[
+0Z
+0Y
+0X
+0W
+0V
+0U
+0T
+0S
+0R
+0Q
+0P
+0O
+0N
+bx M
+bx L
+bx K
+0J
+0I
+0H
+0G
+xF
+xE
+0D
+0C
+0B
+0A
+x@
+x?
+0>
+0=
+0<
+0;
+x:
+x9
+x8
+x7
+x6
+b0 5
+b0 4
+b0 3
+z2
+z1
+z0
+z/
+z.
+z-
+1,
+0+
+0*
+0)
+b0 (
+b0 '
+b0 &
+0%
+0$
+0#
+x"
+x!
+$end
+#100

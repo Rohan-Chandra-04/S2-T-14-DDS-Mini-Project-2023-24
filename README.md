@@ -68,7 +68,8 @@ COMPONENTS:-
 
 5)DECODERS
 
-![image](https://github.com/Rohan-Chandra-04/S2-T-14-DDS-Mini-Project-2023-24/assets/129037115/2740f29c-cf6c-4a8f-acc6-5a8497b44759)
+![image](https://github.com/Rohan-Chandra-04/S2-T-14-DDS-Mini-Project-2023-24/assets/129037115/55f96c7c-5158-4e5a-b0f2-437c55f60efd)
+
 
 </details>
 

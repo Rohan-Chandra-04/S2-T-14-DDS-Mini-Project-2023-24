@@ -216,14 +216,9 @@ regimen.
 <details>
   <summary>Detail</summary>
 
-  Screenshot from 2023-10-24 19-34-54.png
+ ![Screenshot from 2023-10-24 19-49-24](https://github.com/Rohan-Chandra-04/S2-T-14-DDS-Mini-Project-2023-24/assets/129037115/a8bbeb2b-b8d7-4a33-b49f-c11d35e1269a)
   
-![Screenshot from 2023-10-24 19-39-31](https://github.com/Rohan-Chandra-04/S2-T-14-DDS-Mini-Project-2023-24/assets/129037115/50315ba8-5227-4209-8af4-ef6f28fbe244)
-
-![Screenshot from 2023-10-24 19-41-00](https://github.com/Rohan-Chandra-04/S2-T-14-DDS-Mini-Project-2023-24/assets/129037115/2f6f2efb-0a6c-4f15-92c4-4379a7c9fca7)
-
-![Screenshot from 2023-10-24 19-48-18](https://github.com/Rohan-Chandra-04/S2-T-14-DDS-Mini-Project-2023-24/assets/129037115/4c9b09aa-a51f-4c81-8478-48109dcd8698)
-
+![Screenshot from 2023-10-24 19-39-31](https://github.com/Rohan-Chandra-04/S2-T-14-DDS-Mini-Project-2023-24/assets/129037115/4f11e44b-b537-4712-9c8d-c4e2b97ef336)
 
 </details>
 

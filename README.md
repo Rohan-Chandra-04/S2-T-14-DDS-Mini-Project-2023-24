@@ -140,7 +140,8 @@ counting process of the three bits.
 Working:-
 
 Flowchart
-![image](https://github.com/Rohan-Chandra-04/S2-T-14-DDS-Mini-Project-2023-24/assets/129037115/4596f5a3-8c78-4365-bb14-cd24cf40e8ca)
+![image](https://github.com/Rohan-Chandra-04/S2-T-14-DDS-Mini-Project-2023-24/assets/129037115/e782e36f-fc21-439f-b3d2-a61516775726)
+
 
 Working Model:
 
@@ -205,7 +206,8 @@ reminders, promoting health and adherence to their prescribed
 
 regimen.
 
-![image](https://github.com/Rohan-Chandra-04/S2-T-14-DDS-Mini-Project-2023-24/assets/129037115/11813bc5-7a78-4992-a51a-49af52c54857)
+![image](https://github.com/Rohan-Chandra-04/S2-T-14-DDS-Mini-Project-2023-24/assets/129037115/c9e197b5-fb6e-4e21-a4af-617863c2cca0)
+
 
 </details>
 
@@ -214,7 +216,7 @@ regimen.
 <details>
   <summary>Detail</summary>
 
-  ![Screenshot from 2023-10-24 19-38-46](https://github.com/Rohan-Chandra-04/S2-T-14-DDS-Mini-Project-2023-24/assets/129037115/9115c266-f237-4123-a21c-9bb4bbf8766f)
+  Screenshot from 2023-10-24 19-34-54.png
   
 ![Screenshot from 2023-10-24 19-39-31](https://github.com/Rohan-Chandra-04/S2-T-14-DDS-Mini-Project-2023-24/assets/129037115/50315ba8-5227-4209-8af4-ef6f28fbe244)
 

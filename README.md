@@ -22,7 +22,7 @@
 <details>
   <summary>Detail</summary>
   
-  > Write your updatede abstract here
+> 
 IDEA:-
 The central idea behind our project is to develop a patient-
 friendly medication reminder system that eliminates the
@@ -215,9 +215,9 @@ regimen.
 ## Logisim Circuit Diagram
 <details>
   <summary>Detail</summary>
-
+#Main Circuit Diagram
  ![Screenshot from 2023-10-24 19-49-24](https://github.com/Rohan-Chandra-04/S2-T-14-DDS-Mini-Project-2023-24/assets/129037115/a8bbeb2b-b8d7-4a33-b49f-c11d35e1269a)
-  
+#Sub-Circuit diagram:
 ![Screenshot from 2023-10-24 19-39-31](https://github.com/Rohan-Chandra-04/S2-T-14-DDS-Mini-Project-2023-24/assets/129037115/4f11e44b-b537-4712-9c8d-c4e2b97ef336)
 
 </details>
@@ -226,7 +226,7 @@ regimen.
 ## Verilog Code
 <details>
   <summary>Detail</summary>
-
+<verilogCode>
   module mainCounter(input wire clk,
   
 input wire reset,
@@ -574,7 +574,8 @@ end
 end
 
 endmodule
-
+</verilogCode>
+<Testbench>
 Test Bench: -
 
 `include "code.v"
@@ -657,6 +658,7 @@ data_in_mid=6'b1001000, data_in_night=6'b1110100;
 end
 
 endmodule
+<\Testbench>
 
 REFERENCES: -
 Books: Morris Mano Design on Digital System
